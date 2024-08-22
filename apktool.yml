@@ -1,0 +1,74 @@
+version: 2.9.3
+apkFileName: MiuiCamera.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 29
+  targetSdkVersion: 31
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 510011302
+  versionName: 5.1.001130.2
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  MODULE_LICENSE_BSD: 0
+  barcode-scanning-common.properties: 8
+  barcode-scanning.properties: 8
+  common.properties: 8
+  firebase-annotations.properties: 8
+  firebase-components.properties: 8
+  firebase-encoders-json.properties: 8
+  firebase-encoders.properties: 8
+  image.properties: 8
+  play-services-base.properties: 8
+  play-services-basement.properties: 8
+  play-services-mlkit-barcode-scanning.properties: 8
+  play-services-tasks.properties: 8
+  transport-api.properties: 8
+  transport-backend-cct.properties: 8
+  transport-runtime.properties: 8
+  vision-common.properties: 8
+  vision-interfaces.properties: 8
+  com/miui/riskcontrol/META-INF/MANIFEST.MF: 0
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: 0
+  miui/popupcamera/IPopupCameraManager.aidl: 8
+doNotCompress:
+- resources.arsc
+- webp
+- png
+- mp4
+- ogg
+- jpg
+- mp3
+- lib/arm64-v8a/libmialgo_saliency_jni.so
+- lib/arm64-v8a/libijkplayer.so
+- lib/arm64-v8a/libcamera_yuv_jni.so
+- lib/arm64-v8a/libcamera_requestutil_jni.so
+- lib/arm64-v8a/libdmabufheap.so
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libhandengine.arcsoft.so
+- lib/arm64-v8a/libc++.so
+- lib/arm64-v8a/libmialgo_saliency.so
+- lib/arm64-v8a/libcamera_arcsoft_handgesture.so
+- lib/arm64-v8a/libmulti-wakeup-engine.so
+- lib/arm64-v8a/libmiuiblursdk.so
+- lib/arm64-v8a/libDocumentProcess.so
+- lib/arm64-v8a/libijkffmpeg.so
+- lib/arm64-v8a/libvideo_extra_color_converter.so
+- lib/arm64-v8a/libion.so
+- lib/arm64-v8a/libYuvWatermark.so
+- lib/arm64-v8a/libCameraEffectJNI.so
+- lib/arm64-v8a/libcamera_handgesture_mpbase.so
+- lib/arm64-v8a/libcamera_video_mein_algo_jni.so
+- lib/arm64-v8a/libbarhopper_v3.so
+- lib/arm64-v8a/libvideo_extra_interpolator.so
+- lib/arm64-v8a/libijksdl.so
+- lib/arm64-v8a/libyuv.so
+- assets/authpack/authpack.bin

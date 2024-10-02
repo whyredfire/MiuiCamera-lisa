@@ -6,7 +6,7 @@
 # static fields
 .field public static final MAX_LENGTH:I = 0x7f
 
-.field public static final TRACING_ENABLED:Z
+.field public static final TRACING_ENABLED:Z = false
 
 
 # direct methods

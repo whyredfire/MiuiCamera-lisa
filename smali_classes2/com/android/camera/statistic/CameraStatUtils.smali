@@ -16,21 +16,21 @@
 
 .field public static final TAG:Ljava/lang/String; = "CameraStatUtils"
 
-.field public static mFirstThermalResult:I
+.field public static mFirstThermalResult:I = 0x0
 
-.field public static mFirstThermalResultArrived:Z
+.field public static mFirstThermalResultArrived:Z = false
 
-.field public static mLayoutType:Ljava/lang/String;
+.field public static mLayoutType:Ljava/lang/String; = null
 
-.field public static mMaxThermalResult:I
+.field public static mMaxThermalResult:I = 0x0
 
 .field public static final mS2GLock:Ljava/lang/Object;
 
 .field public static final mS2VLock:Ljava/lang/Object;
 
-.field public static mZoomPair:Ljava/lang/String;
+.field public static mZoomPair:Ljava/lang/String; = null
 
-.field public static sBeautyTypeToName:Ljava/util/HashMap;
+.field public static sBeautyTypeToName:Ljava/util/HashMap; = null
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/HashMap<",
@@ -41,7 +41,7 @@
     .end annotation
 .end field
 
-.field public static sBeautyTypeToValue:Ljava/util/HashMap;
+.field public static sBeautyTypeToValue:Ljava/util/HashMap; = null
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/HashMap<",
@@ -52,7 +52,7 @@
     .end annotation
 .end field
 
-.field public static sCameraModeIdToName:Landroid/util/SparseArray;
+.field public static sCameraModeIdToName:Landroid/util/SparseArray; = null
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Landroid/util/SparseArray<",
@@ -62,11 +62,11 @@
     .end annotation
 .end field
 
-.field public static sCameraSwitchInModeId:I
+.field public static sCameraSwitchInModeId:I = 0x0
 
-.field public static sCameraSwitchStart:J
+.field public static sCameraSwitchStart:J = 0x0L
 
-.field public static sExposureTimeLessThan1sToName:Landroid/util/SparseArray;
+.field public static sExposureTimeLessThan1sToName:Landroid/util/SparseArray; = null
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Landroid/util/SparseArray<",
@@ -76,7 +76,7 @@
     .end annotation
 .end field
 
-.field public static sFilterTypeToName:Landroid/util/SparseArray;
+.field public static sFilterTypeToName:Landroid/util/SparseArray; = null
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Landroid/util/SparseArray<",
@@ -86,11 +86,11 @@
     .end annotation
 .end field
 
-.field public static sFromModeId:I
+.field public static sFromModeId:I = 0x0
 
-.field public static sIsFrontCameraFrom:Z
+.field public static sIsFrontCameraFrom:Z = false
 
-.field public static sIsFrontCameraTo:Z
+.field public static sIsFrontCameraTo:Z = false
 
 .field public static sMiLiveBeautyTypeToName:Ljava/util/HashMap;
     .annotation system Ldalvik/annotation/Signature;

@@ -6,7 +6,7 @@
 # static fields
 .field public static final TAG:Ljava/lang/String; = "AnimHelper"
 
-.field public static volatile sIsDebugEnabled:Z
+.field public static volatile sIsDebugEnabled:Z = false
 
 
 # direct methods

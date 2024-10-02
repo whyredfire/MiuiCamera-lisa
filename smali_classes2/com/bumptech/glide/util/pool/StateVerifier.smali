@@ -13,7 +13,7 @@
 
 
 # static fields
-.field public static final DEBUG:Z
+.field public static final DEBUG:Z = false
 
 
 # direct methods

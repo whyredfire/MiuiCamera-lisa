@@ -8,9 +8,9 @@
 
 .field public static final TAG:Ljava/lang/String; = "DynamicRefreshRate recy"
 
-.field public static sControlViewHashCode:I
+.field public static sControlViewHashCode:I = 0x0
 
-.field public static sHasGetProperty:Z
+.field public static sHasGetProperty:Z = false
 
 .field public static sRefreshRateList:[I
 

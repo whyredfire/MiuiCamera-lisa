@@ -4,7 +4,7 @@
 
 
 # static fields
-.field public static final a:Z
+.field public static final a:Z = false
 
 
 # direct methods

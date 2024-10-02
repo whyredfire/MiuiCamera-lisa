@@ -10,9 +10,9 @@
 
 .field public static final zzc:Ljava/lang/Object;
 
-.field public static zzd:Lcom/google/android/gms/common/internal/zzr;
+.field public static zzd:Lcom/google/android/gms/common/internal/zzr; = null
 
-.field public static zze:Z
+.field public static zze:Z = false
 
 
 # direct methods

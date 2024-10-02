@@ -37,13 +37,13 @@
 
 .field public static final q:Ljava/lang/String; = ""
 
-.field public static r:Ljava/lang/reflect/Method;
+.field public static r:Ljava/lang/reflect/Method; = null
 
-.field public static s:Z
+.field public static s:Z = false
 
-.field public static t:Ljava/lang/String;
+.field public static t:Ljava/lang/String; = null
 
-.field public static u:Z
+.field public static u:Z = false
 
 .field public static v:I
 

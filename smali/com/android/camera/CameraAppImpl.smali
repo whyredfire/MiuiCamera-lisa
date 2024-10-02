@@ -4,7 +4,7 @@
 
 
 # static fields
-.field public static sCameraDeviceDisable:Z
+.field public static sCameraDeviceDisable:Z = false
 
 .field public static sContext:Landroid/content/Context;
 

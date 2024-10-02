@@ -6,7 +6,7 @@
 # static fields
 .field public static final TAG:Ljava/lang/String; = "JpegUtil"
 
-.field public static sInitialized:Z
+.field public static sInitialized:Z = false
 
 
 # direct methods

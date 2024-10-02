@@ -47,7 +47,7 @@
 
 .field public static final o:I = 0x14
 
-.field public static final p:Z
+.field public static final p:Z = false
 
 .field public static volatile s:Lcom/xiaomi/onetrack/CrashAnalysis;
 

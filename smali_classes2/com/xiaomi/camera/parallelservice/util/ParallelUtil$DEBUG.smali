@@ -15,7 +15,7 @@
 
 
 # static fields
-.field public static final ENABLE:Z
+.field public static final ENABLE:Z = false
 
 
 # direct methods

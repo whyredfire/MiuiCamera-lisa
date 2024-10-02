@@ -24,9 +24,9 @@
 
 .field public static final sCanceledAvailabilityNotification:Ljava/util/concurrent/atomic/AtomicBoolean;
 
-.field public static zza:Z
+.field public static zza:Z = false
 
-.field public static zzb:Z
+.field public static zzb:Z = false
 
 .field public static final zzc:Ljava/util/concurrent/atomic/AtomicBoolean;
 

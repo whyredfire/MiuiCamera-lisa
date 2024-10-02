@@ -15,7 +15,7 @@
 
 
 # static fields
-.field public static final DEBUG_EOS:Z
+.field public static final DEBUG_EOS:Z = false
 
 
 # instance fields

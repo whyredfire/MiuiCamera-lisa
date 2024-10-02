@@ -23,9 +23,9 @@
 
 .field public static final g:I = 0x65
 
-.field public static volatile h:Z
+.field public static volatile h:Z = false
 
-.field public static volatile j:Z
+.field public static volatile j:Z = false
 
 
 # instance fields

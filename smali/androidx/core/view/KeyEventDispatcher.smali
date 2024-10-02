@@ -12,11 +12,11 @@
 
 
 # static fields
-.field public static sActionBarFieldsFetched:Z
+.field public static sActionBarFieldsFetched:Z = false
 
-.field public static sActionBarOnMenuKeyMethod:Ljava/lang/reflect/Method;
+.field public static sActionBarOnMenuKeyMethod:Ljava/lang/reflect/Method; = null
 
-.field public static sDialogFieldsFetched:Z
+.field public static sDialogFieldsFetched:Z = false
 
 .field public static sDialogKeyListenerField:Ljava/lang/reflect/Field;
 

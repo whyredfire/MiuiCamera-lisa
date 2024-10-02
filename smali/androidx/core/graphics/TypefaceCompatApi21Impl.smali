@@ -12,11 +12,11 @@
 
 .field public static final TAG:Ljava/lang/String; = "TypefaceCompatApi21Impl"
 
-.field public static sAddFontWeightStyle:Ljava/lang/reflect/Method;
+.field public static sAddFontWeightStyle:Ljava/lang/reflect/Method; = null
 
-.field public static sCreateFromFamiliesWithDefault:Ljava/lang/reflect/Method;
+.field public static sCreateFromFamiliesWithDefault:Ljava/lang/reflect/Method; = null
 
-.field public static sFontFamily:Ljava/lang/Class;
+.field public static sFontFamily:Ljava/lang/Class; = null
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/lang/Class<",
@@ -25,7 +25,7 @@
     .end annotation
 .end field
 
-.field public static sFontFamilyCtor:Ljava/lang/reflect/Constructor;
+.field public static sFontFamilyCtor:Ljava/lang/reflect/Constructor; = null
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/lang/reflect/Constructor<",
@@ -34,7 +34,7 @@
     .end annotation
 .end field
 
-.field public static sHasInitBeenCalled:Z
+.field public static sHasInitBeenCalled:Z = false
 
 
 # direct methods

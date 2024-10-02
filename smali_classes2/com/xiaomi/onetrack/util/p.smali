@@ -23,13 +23,13 @@
 
 .field public static final j:I = 0x4
 
-.field public static k:Z
+.field public static k:Z = false
 
-.field public static l:Z
+.field public static l:Z = false
 
-.field public static m:Z
+.field public static m:Z = false
 
-.field public static n:Z
+.field public static n:Z = false
 
 
 # direct methods
